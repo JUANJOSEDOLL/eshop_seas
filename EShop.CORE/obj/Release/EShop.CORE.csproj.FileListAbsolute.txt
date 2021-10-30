@@ -1,0 +1,46 @@
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.csprojAssemblyReference.cache
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.csproj.CoreCompileInputs.cache
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\EShop.CORE.dll.config
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\EShop.CORE.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\EShop.CORE.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\Antlr3.Runtime.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\AspNet.ScriptManager.bootstrap.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\EntityFramework.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\System.Linq.Dynamic.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\Antlr3.Runtime.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\EntityFramework.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\es\EntityFramework.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\es\EntityFramework.SqlServer.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\bin\Release\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.csproj.CopyComplete
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\EShop.CORE.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\EShop.CORE.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\EShop.CORE.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\Antlr3.Runtime.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\System.Linq.Dynamic.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\Antlr3.Runtime.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\bin\Release\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.csproj.AssemblyReference.cache
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.csproj.CoreCompileInputs.cache
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.csproj.CopyComplete
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.CORE\obj\Release\EShop.CORE.pdb

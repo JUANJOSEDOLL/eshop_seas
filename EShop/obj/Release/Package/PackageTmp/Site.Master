@@ -1,0 +1,222 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="EShop.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Mi aplicación ASP.NET</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/favicon.png" rel="shortcut icon" type="image/x-icon" />
+
+</head>
+<body>
+    <form runat="server" enctype="multipart/form-data">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/User/ProductList">Galería EShop</a>
+                </div>
+
+               
+
+                <div class="navbar-collapse collapse">
+
+
+                    <ul class="nav navbar-nav">
+
+                        
+                        <li><a runat="server" href="~/">Inicio</a></li>
+                        <li><a runat="server" href="~/Contact">Contacto</a></li>
+                        
+                      
+                     
+                        
+                    </ul>
+
+
+                         
+
+                    <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a runat="server" href="~/User/ProductList">Seguir comprando</a></li>
+                                <li><a runat="server" href="~/Account/Register">Registrarse</a></li>
+                                <li><a runat="server" href="~/Account/Login">Iniciar sesión</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+
+                        <RoleGroups>
+                            
+                            <asp:RoleGroup Roles="Admin">
+
+                                <ContentTemplate>
+
+                            <ul class="nav navbar-nav navbar-right">
+                                <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Área administrador</a>
+                            <div class="dropdown-menu">
+
+
+
+                                <a class="dropdown-item" runat="server" href="~/Admin/CreateFormCategory">Crear Categorías</a><br />
+
+                                <a class="dropdown-item" runat="server" href="~/Admin/CategoryList">Lista Categorías</a><br />
+                                <a class="dropdown-item" runat="server" href="~/Admin/CreateFormProduct">Crear Productos</a><br />
+                                <a class="dropdown-item" runat="server" href="~/Admin/ProductListAdmin">Lista Productos</a><br />
+
+                                <a class="dropdown-item" runat="server" href="~/Admin/CreateFormImages">Crear Imágenes</a><br />
+
+                                <a class="dropdown-item" runat="server" href="~/Admin/ImageList">Lista Imágenes</a><br />
+
+                               <a class="dropdown-item" runat="server" href="~/Admin/AdminOrderList">Lista Órdenes</a><br />
+
+                                  <a class="dropdown-item" runat="server" href="~/Admin/SearchUser">Busca Clientes para editar</a><br />
+
+                                  <a class="dropdown-item" runat="server" href="~/Admin/FullManagement">Busca entradas obsoletas</a><br />
+
+                                  
+
+                                <a class="dropdown-item" runat="server" href="~/Admin/CreateFormOrder">Crear Órdenes</a><br />
+                            </div>
+                        </li>
+                                 <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                <li>
+                                    <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                </li>
+                            </ul>
+                                    
+                                </ContentTemplate>
+                            
+                            </asp:RoleGroup>
+                        </RoleGroups>
+
+
+
+
+
+                        <LoggedInTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+                                 <li><a runat="server" href="~/User/ProductList">Seguir comprando</a></li>
+                                <li><a runat="server" href="~/Client/ClientOrderList">Mis Órdenes</a></li>
+                               
+                                <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                <li>
+                                    <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                </li>
+                            </ul>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+
+            <hr />
+           
+
+
+       <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">   
+     
+ <nav class="navbar navbar-inverse">   
+<%--<footer>--%>
+    <div class="footer-top"> 
+       <div class="container" style="padding: 10px;">
+         <div class="col-lg-2 col-xs-12 text-center ">
+             <a runat="server" href="#"><i class="fa fa-facebook fa-2x" style="color:white"></i></a>
+         </div>
+          <div class="col-lg-2 col-xs-12 text-center">
+             <a href="#"><i class="fa fa-twitter fa-2x" style="color:white"></i></a>
+         </div>
+          <div class="col-lg-2 col-xs-12 text-center">
+             <a href="#"><i class="fa fa-flickr fa-2x" style="color:white"></i></a>
+         </div>
+          <div class="col-lg-2 col-xs-12 text-center">
+             <a href="#"><i class="fa fa-tumblr fa-2x" style="color:white"></i></a>
+         </div>
+          <div class="col-lg-2 col-xs-12 text-center">
+             <a href="#"><i class="fa fa-github fa-2x" style="color:white"></i></a>
+         </div>
+          <div class="col-lg-2 col-xs-12 text-center">
+             <a href="#"><i class="fa fa-google-plus fa-2x" style="color:white"></i></a>
+         </div>
+       </div> 
+    </div>  
+    
+    <div class="container" style="border-top:1px solid grey; padding: 10px;"">
+        <div class="row text-center">   
+            <div class="col-lg-6 col-lg-offset-3">
+                <ul class="list-unstyled">
+                    <li>
+                        <a  runat="server" href="#" style="color:white">Condiciones de uso</a>
+                    </li>
+                           
+                    <li>
+                        <a  runat="server" href="#" style="color:white">Política de privacidad</a>
+                    </li>
+                           
+                    <li>
+                        <a  runat="server" style="color:white" href="~/User/ProductList">Galería</a>
+                    </li>
+                           
+                    <li>
+                        <a  runat="server" style="color:white" href="~/Contact">Contacto</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<%--</footer>--%>
+
+
+<div class="copyright">
+   <div class="container">
+   
+     <div class="row text-center">
+     	<p  style="color:white"  ><%: DateTime.Now.Year %> - EShop develop in ASP.NET</p>
+     </div>
+     
+    </div>
+</div>
+</nav>
+    </form>
+</body>
+</html>

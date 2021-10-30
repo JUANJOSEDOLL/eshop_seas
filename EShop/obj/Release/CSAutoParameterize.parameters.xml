@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConexionAzure-Web.config Connection String" description="ConexionAzure Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=tcp:eshopwebdbserver.database.windows.net,1433;Initial Catalog=EShop.WEB_db;User Id=sqladmin@eshopwebdbserver;Password=Achilipu1972" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\JUAN\ JOSE\ DOLL\\Desktop\\EShop-seas\\EShop\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConexionAzure']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-EShop-2021040310225520.mdf;Initial Catalog=aspnet-EShop-2021040310225520;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\JUAN\ JOSE\ DOLL\\Desktop\\EShop-seas\\EShop\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,140 @@
+C:\Users\joanj\source\repos\EShop-seas\EShop\obj\Release\EShop.WEB.csprojAssemblyReference.cache
+C:\Users\joanj\source\repos\EShop-seas\EShop\obj\Release\EShop.WEB.csproj.CoreCompileInputs.cache
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.dll.config
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Antlr3.Runtime.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EntityFramework.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EntityFramework.SqlServer.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.APPLICATION.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.CORE.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.DAL.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Newtonsoft.Json.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Owin.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\System.Linq.Dynamic.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\System.Web.Optimization.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\System.Web.Providers.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\WebGrease.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.APPLICATION.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.APPLICATION.dll.config
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.CORE.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.CORE.dll.config
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.DAL.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EShop.DAL.dll.config
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\System.Web.Optimization.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Newtonsoft.Json.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Antlr3.Runtime.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EntityFramework.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\EntityFramework.SqlServer.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\System.Web.Providers.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\es\System.Web.Optimization.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\es\EntityFramework.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\obj\Release\EShop.WEB.csproj.CopyComplete
+C:\Users\joanj\source\repos\EShop-seas\EShop\obj\Release\EShop.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop\obj\Release\EShop.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Antlr3.Runtime.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EntityFramework.SqlServer.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.CORE.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.DAL.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Newtonsoft.Json.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Owin.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\System.Linq.Dynamic.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\System.Web.Optimization.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\System.Web.Providers.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\WebGrease.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.APPLICATION.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.CORE.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.CORE.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.DAL.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EShop.DAL.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\EntityFramework.SqlServer.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\System.Web.Optimization.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Newtonsoft.Json.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Antlr3.Runtime.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\System.Web.Providers.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\obj\Release\EShop.WEB.csproj.AssemblyReference.cache
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\obj\Release\EShop.WEB.csproj.CoreCompileInputs.cache
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\obj\Release\EShop.WEB.csproj.CopyComplete
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\obj\Release\EShop.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop\obj\Release\EShop.pdb

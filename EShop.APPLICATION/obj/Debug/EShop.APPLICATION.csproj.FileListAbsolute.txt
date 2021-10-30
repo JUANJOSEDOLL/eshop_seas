@@ -1,0 +1,489 @@
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csprojAssemblyReference.cache
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.exe
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.exe.config
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.rsp
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.exe
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.exe.config
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.rsp
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Console.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Globalization.Calendars.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Net.Http.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Net.Sockets.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.exe
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.exe.config
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.rsp
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joanj\source\repos\EShop\EShop.APPLICATION\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+E:\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.exe
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.exe.config
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.rsp
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.exe
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.exe.config
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.rsp
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.AppContext.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Console.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Globalization.Calendars.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.Compression.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.Compression.ZipFile.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.FileSystem.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Net.Http.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Net.Sockets.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.ValueTuple.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XPath.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.exe
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.exe.config
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.rsp
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\VBCSCompiler.exe
+E:\EShop\EShop.APPLICATION\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+E:\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+E:\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+E:\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+E:\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+E:\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+E:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EShop\EShop.APPLICATION\bin\Debug\es\EntityFramework.resources.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\EShop\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csprojAssemblyReference.cache
+E:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+E:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+E:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+E:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb
+F:\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+F:\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.exe
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.exe.config
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.rsp
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.exe
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.exe.config
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.rsp
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.AppContext.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Console.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Globalization.Calendars.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.Compression.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.Compression.ZipFile.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.FileSystem.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Net.Http.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Net.Sockets.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.ValueTuple.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XPath.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.exe
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.exe.config
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.rsp
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\VBCSCompiler.exe
+F:\EShop\EShop.APPLICATION\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+F:\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+F:\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+F:\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+F:\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+F:\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+F:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\EShop\EShop.APPLICATION\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\EShop\EShop.APPLICATION\bin\Debug\es\EntityFramework.resources.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\EShop\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csprojAssemblyReference.cache
+F:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+F:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+F:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+F:\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.exe
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.exe.config
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\csc.rsp
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.exe
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.exe.config
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\csi.rsp
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Console.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Globalization.Calendars.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Net.Http.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Net.Sockets.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.exe
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.exe.config
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\vbc.rsp
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csprojAssemblyReference.cache
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.CodeAnalysisLog.xml
+C:\Users\joanj\Desktop\EShop\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.lastcodeanalysissucceeded
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.AssemblyReference.cache
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.dll
+C:\Users\JUAN JOSE DOLL\source\repos\eshop45a37\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.AssemblyReference.cache
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_vs2017\eshop-vs2017\EShop.APPLICATION\bin\Debug\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.AssemblyReference.cache
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\Source\Repos\eshop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\AspNet.ScriptManager.bootstrap.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csprojAssemblyReference.cache
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+C:\Users\joanj\source\repos\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.AssemblyReference.cache
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\Desktop\EShop-seas\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EShop.APPLICATION.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EShop.CORE.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EShop.DAL.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EShop.CORE.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EShop.CORE.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EShop.DAL.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EShop.DAL.dll.config
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.AssemblyReference.cache
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.csproj.CopyComplete
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.dll
+C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop.APPLICATION\obj\Debug\EShop.APPLICATION.pdb

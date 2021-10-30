@@ -1,0 +1,1329 @@
+
+********** 17/10/2021 7:37:45 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\User\CartItemList.aspx.cs:línea 76
+
+********** 17/10/2021 9:30:23 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowImage
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowImage.DeleteImage(Image image) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowImage.aspx.cs:línea 59
+
+********** 17/10/2021 9:30:27 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowImage
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowImage.DeleteImage(Image image) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowImage.aspx.cs:línea 59
+
+********** 17/10/2021 9:30:51 **********
+Exception Type: System.FormatException
+Exception: La cadena de entrada no tiene el formato correcto.
+Source: Error en try/catch de CreateFormImages
+Stack Trace: 
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Int32.Parse(String s)
+   en EShop.Admin.CreateFormImages.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormImages.aspx.cs:línea 93
+
+********** 17/10/2021 9:46:15 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 17/10/2021 9:46:46 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 324
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 293
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 169
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 135
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 82
+
+********** 17/10/2021 9:47:39 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 113
+
+********** 17/10/2021 9:48:02 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 226
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 17/10/2021 11:10:24 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 17/10/2021 11:10:57 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 324
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 293
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 169
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 135
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 82
+
+********** 17/10/2021 11:18:55 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 226
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 17/10/2021 11:23:42 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 226
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 17/10/2021 19:54:02 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 227
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 18/10/2021 17:37:52 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 227
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 18/10/2021 18:36:42 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 18/10/2021 18:37:07 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 324
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 293
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 169
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 135
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 82
+
+********** 18/10/2021 18:38:01 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de InvoiceAdmin
+Stack Trace: 
+   en EShop.Admin.InvoiceAdmin.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\InvoiceAdmin.aspx.cs:línea 130
+
+********** 18/10/2021 18:38:26 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 227
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 18/10/2021 18:39:47 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 227
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 18/10/2021 20:53:04 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de InvoiceAdmin
+Stack Trace: 
+   en EShop.Admin.InvoiceAdmin.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\InvoiceAdmin.aspx.cs:línea 129
+
+********** 18/10/2021 20:56:56 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 227
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 18/10/2021 20:58:20 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 113
+
+********** 18/10/2021 21:00:01 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 18/10/2021 21:00:28 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 324
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 293
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 169
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 135
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 82
+
+********** 18/10/2021 21:01:22 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 227
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 19/10/2021 0:01:01 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de InvoiceAdmin
+Stack Trace: 
+   en EShop.Admin.InvoiceAdmin.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\InvoiceAdmin.aspx.cs:línea 117
+
+********** 19/10/2021 0:01:32 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 19/10/2021 0:01:37 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 19/10/2021 0:01:42 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 19/10/2021 0:01:51 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 19/10/2021 0:02:01 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 19/10/2021 0:02:17 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 19/10/2021 0:02:45 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 19/10/2021 0:03:07 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 324
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 293
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 169
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 135
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 82
+
+********** 19/10/2021 0:03:12 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 19/10/2021 0:03:37 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de InvoiceAdmin
+Stack Trace: 
+   en EShop.Admin.InvoiceAdmin.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\InvoiceAdmin.aspx.cs:línea 117
+
+********** 20/10/2021 14:12:25 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 20/10/2021 14:12:37 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 20/10/2021 14:12:43 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de EditUserData
+Stack Trace: 
+   en EShop.Client.EditUserData.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\EditUserData.aspx.cs:línea 62
+
+********** 20/10/2021 14:12:56 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de EditUserData
+Stack Trace: 
+   en EShop.Client.EditUserData.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\EditUserData.aspx.cs:línea 62
+
+********** 20/10/2021 14:13:16 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 118
+
+********** 20/10/2021 14:14:03 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de EditUserData
+Stack Trace: 
+   en EShop.Client.EditUserData.LoadClientData(String userId) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\EditUserData.aspx.cs:línea 62
+
+********** 20/10/2021 23:29:53 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 20/10/2021 23:30:50 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 324
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 293
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 169
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 135
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 82
+
+********** 20/10/2021 23:33:16 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowCategory
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowCategory.DeleteCategory(Category category) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowCategory.aspx.cs:línea 58
+
+********** 21/10/2021 0:55:17 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 113
+
+********** 21/10/2021 0:55:20 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 113
+
+********** 21/10/2021 16:48:06 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 16:48:28 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:11:29 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:13:31 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:13:33 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:14:53 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowProduct.DeleteProduct(Product product) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowProduct.aspx.cs:línea 56
+
+********** 21/10/2021 18:15:32 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowProduct.DeleteProduct(Product product) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowProduct.aspx.cs:línea 56
+
+********** 21/10/2021 18:31:02 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowProduct.DeleteProduct(Product product) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowProduct.aspx.cs:línea 56
+
+********** 21/10/2021 18:31:17 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:31:29 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:32:20 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:32:26 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:32:29 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:32:31 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:32:35 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 18:56:52 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 21/10/2021 20:15:49 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 21/10/2021 20:17:43 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 21/10/2021 20:18:23 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 21/10/2021 20:26:37 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 21/10/2021 20:27:34 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 21/10/2021 20:29:23 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowProduct.DeleteProduct(Product product) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowProduct.aspx.cs:línea 56
+
+********** 21/10/2021 20:29:45 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowProduct.DeleteProduct(Product product) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowProduct.aspx.cs:línea 56
+
+********** 21/10/2021 20:30:28 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 21/10/2021 20:30:55 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowImage
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowImage.DeleteImage(Image image) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowImage.aspx.cs:línea 59
+
+********** 21/10/2021 20:30:58 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowImage
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowImage.DeleteImage(Image image) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowImage.aspx.cs:línea 59
+
+********** 21/10/2021 20:32:18 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 21/10/2021 20:33:56 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 21/10/2021 20:34:58 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 20:35:09 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 21/10/2021 20:35:40 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de DeleteRowProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.DeleteRowProduct.DeleteProduct(Product product) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\DeleteRowProduct.aspx.cs:línea 56
+
+********** 21/10/2021 20:42:56 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreateFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.CreateFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\CreateFormProduct.aspx.cs:línea 166
+
+********** 23/10/2021 1:51:04 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 23/10/2021 1:51:47 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 324
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 293
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 169
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 135
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 82
+
+********** 23/10/2021 1:52:18 **********
+Exception Type: System.NullReferenceException
+Exception: Referencia a objeto no establecida como instancia de un objeto.
+Source: Error en try/catch de Invoice
+Stack Trace: 
+   en EShop.Client.Invoice.Page_Load(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\Invoice.aspx.cs:línea 43
+
+********** 23/10/2021 2:10:33 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\User\CartItemList.aspx.cs:línea 78
+
+********** 23/10/2021 2:11:23 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 324
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 293
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 169
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 135
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Client\CreditCardInfo.aspx.cs:línea 82
+
+********** 23/10/2021 2:13:57 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 227
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormOrder.aspx.cs:línea 121
+
+********** 23/10/2021 2:16:21 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 23/10/2021 2:16:49 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 23/10/2021 2:16:55 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\joanj\source\repos\EShop-seas\EShop\Admin\EditFormProduct.aspx.cs:línea 133
+
+********** 26/10/2021 22:57:09 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\User\CartItemList.aspx.cs:línea 73
+
+********** 26/10/2021 22:57:48 **********
+Exception Type: System.Net.Mail.SmtpException
+Exception: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.0 Authentication Required. Learn more at
+Source: Error en try/catch de CreditCardInfo SendEmailToUser
+Stack Trace: 
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 269
+
+********** 26/10/2021 22:57:48 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 319
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 288
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 164
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 130
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 77
+
+********** 26/10/2021 23:00:04 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Admin\EditFormProduct.aspx.cs:línea 131
+
+********** 26/10/2021 23:01:26 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Admin\EditFormProduct.aspx.cs:línea 131
+
+********** 26/10/2021 23:01:31 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditFormProduct
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormProduct.BtnSubmit_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Admin\EditFormProduct.aspx.cs:línea 131
+
+********** 26/10/2021 23:03:28 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\User\CartItemList.aspx.cs:línea 73
+
+********** 26/10/2021 23:03:53 **********
+Exception Type: System.Net.Mail.SmtpException
+Exception: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.0 Authentication Required. Learn more at
+Source: Error en try/catch de CreditCardInfo SendEmailToUser
+Stack Trace: 
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 269
+
+********** 26/10/2021 23:03:53 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 319
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 288
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 164
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 130
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 77
+
+********** 27/10/2021 18:26:03 **********
+Exception Type: System.Net.Mail.SmtpException
+Exception: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.0 Authentication Required. Learn more at
+Source: Error en try/catch de EditFormOrderSendEmailToUser()
+Stack Trace: 
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Admin\EditFormOrder.aspx.cs:línea 203
+
+********** 27/10/2021 18:26:08 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Admin\EditFormOrder.aspx.cs:línea 222
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Admin\EditFormOrder.aspx.cs:línea 116
+
+********** 28/10/2021 22:11:00 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\User\CartItemList.aspx.cs:línea 73
+
+********** 28/10/2021 22:11:38 **********
+Exception Type: System.Net.Mail.SmtpException
+Exception: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.0 Authentication Required. Learn more at
+Source: Error en try/catch de CreditCardInfo SendEmailToUser
+Stack Trace: 
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 269
+
+********** 28/10/2021 22:11:38 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 319
+   en EShop.Client.Informar_tarjeta.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 288
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 164
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 130
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 77
+
+********** 28/10/2021 22:13:58 **********
+Exception Type: System.Net.Mail.SmtpException
+Exception: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.0 Authentication Required. Learn more at
+Source: Error en try/catch de EditFormOrderSendEmailToUser()
+Stack Trace: 
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Admin\EditFormOrder.aspx.cs:línea 203
+
+********** 28/10/2021 22:13:58 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de EditformOrder
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Admin.EditFormOrder.SendEmailToUser() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Admin\EditFormOrder.aspx.cs:línea 222
+   en EShop.Admin.EditFormOrder.BtnSubmit_Click_Order(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Admin\EditFormOrder.aspx.cs:línea 116
+
+********** 30/10/2021 3:11:36 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CartItemList
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.User.CartItemList.ButtonCreateOrder_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\User\CartItemList.aspx.cs:línea 77
+
+********** 30/10/2021 3:12:12 **********
+Exception Type: System.Net.Mail.SmtpException
+Exception: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.0 Authentication Required. Learn more at
+Source: Error en try/catch de CreditCardInfo SendEmailToUser
+Stack Trace: 
+   en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en EShop.Client.Informar_tarjeta.SendEmailToAdmin() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 282
+
+********** 30/10/2021 3:12:12 **********
+Exception Type: System.Threading.ThreadAbortException
+Exception: Subproceso anulado.
+Source: Error en try/catch de CreditCardInfo ButtonUpdateOrder_Click
+Stack Trace: 
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   en System.Web.HttpResponse.Redirect(String url)
+   en EShop.Client.Informar_tarjeta.DeleteOrdersInCartItemsSelected() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 422
+   en EShop.Client.Informar_tarjeta.SendEmailToAdmin() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 301
+   en EShop.Client.Informar_tarjeta.StockCartItemsSelected() en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 171
+   en EShop.Client.Informar_tarjeta.AddOrderDetails(Int32 idOrder) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 135
+   en EShop.Client.Informar_tarjeta.ButtonUpdateOrder_Click(Object sender, EventArgs e) en C:\Users\JUAN JOSE DOLL\Desktop\eshop_bitbucket\EShop\Client\CreditCardInfo.aspx.cs:línea 80
+
